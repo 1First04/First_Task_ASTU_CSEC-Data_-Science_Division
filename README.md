@@ -60,12 +60,8 @@ python tic_tac_toe.py
 
 * The board positions are numbered from **1 to 9**:
 
-```
- 1 | 2 | 3
----|---|---
- 4 | 5 | 6
----|---|---
- 7 | 8 | 9
+``<img width="519" height="208" alt="image" src="https://github.com/user-attachments/assets/3f9e685c-5613-4c90-92fa-df0f4b42b388" />
+
 ```
 
 * Players take turns entering a number (1–9)
