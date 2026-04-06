@@ -60,7 +60,8 @@ python tic_tac_toe.py
 
 * The board positions are numbered from **1 to 9**:
 
-``<img width="519" height="208" alt="image" src="https://github.com/user-attachments/assets/3f9e685c-5613-4c90-92fa-df0f4b42b388" />
+``<img width="412" height="437" alt="image" src="https://github.com/user-attachments/assets/4098a5fa-89df-4520-a433-6e1e83c189b7" />
+
 
 ```
 
