@@ -235,7 +235,8 @@ This project is licensed under the **MIT License**.
 Contributions are welcome!
 Feel free to fork the repository and submit a pull request.
 
----## Second_Task_ASTU_CSEC-Data_-Science_Division
+
+# Second_Task_ASTU_CSEC-Data_-Science_Division
 
 # 🧮 CLI Calculator (Python)
 
